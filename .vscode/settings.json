@@ -20,4 +20,11 @@
   },
   "peacock.color": "#f9e64f",
   "peacock.remoteColor": "#f9e64f",
+  "python-envs.pythonProjects": [
+    {
+      "path": ".",
+      "envManager": "ms-python.python:conda",
+      "packageManager": "ms-python.python:conda"
+    }
+  ],
 }
